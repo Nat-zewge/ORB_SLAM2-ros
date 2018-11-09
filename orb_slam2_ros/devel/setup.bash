@@ -1,0 +1,1 @@
+/home/natnael/git/subgit/ORB_SLAM2-ros/orb_slam2_ros/devel/.private/catkin_tools_prebuild/setup.bash
